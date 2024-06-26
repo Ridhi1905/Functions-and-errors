@@ -9,7 +9,7 @@ To run the program follow the steps:
 3. then deploy the contract 
 4. enter the value of the numerator and denominator and transact it
 5. you can see the divided value
-#Functionality
+# Functionality
 * Contract successfully uses require()
 * Contract successfully uses assert()
 * Contract successfully uses revert() statements
