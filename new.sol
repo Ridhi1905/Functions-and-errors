@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.26;
 
-contract myWallet{
+contract calculate{
     uint public value;
     
     function setValue(uint _value) public {
